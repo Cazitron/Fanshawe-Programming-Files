@@ -1,18 +1,162 @@
 [
-	{
-		productName: "Double Mozza Burger",
-		graphicName: "",
-		costPrice: ,
-		msrp: 8.09
-	},
-	{
-		id: 1,
-		name: "McDonalds",
-		Timer: ""		
-	},
-	{
-		id: 2,
-		name: "Byron Pizza",
-		Timer: ""		
-	}
+  {
+    "NAME": "G560",
+    "GRAPHIC": "N/A",
+    "PRICE": 249.99,
+    "TAX": 32.50,
+    "STOCK": 0,
+    "BACKORDER": 500,
+    "DETAILS": "Experience levels of gaming intensity with Logitech G560 LIGHTSYNC PC gaming speakers with dynamic, intelligent RGB lighting. This 2.1 speaker system reacts to in-game action and music.",
+    "BRAND": "LOGITECH"
+  },
+  {
+    "NAME": "Z906 5.1 SURROUND SOUND SPEAKER SYSTEM",
+    "GRAPHIC": "N/A",
+    "PRICE": 499.99,
+    "TAX": 65.00,
+    "STOCK": 76,
+    "BACKORDER": 0,
+    "DETAILS": "Fully immerse into a premium, theater-quality audio experience in the comfort of your home. This 5.1 speaker system comes with a 1000 Watts Peak/500 Watts RMS power for a rich THX Certified surround sound. With the ability to decode Dolby Digital and DTS encoded soundtracks, Z906 takes your movie and music experience to a whole new level.",
+    "BRAND": "LOGITECH"
+  },
+  {
+    "NAME": "S120 STEREO SPEAKERS,,,,,,,,,,,
+    "GRAPHIC": "N/A",
+    "PRICE": 17.99,
+    "TAX": 2.34,
+    "STOCK": 91,
+    "BACKORDER": 0,
+    "DETAILS": "This slim speaker design offers easy setup via any 3.5 mm input and access to all controls on the right speaker.",
+    "BRAND": "LOGITECH"
+  },
+  {
+    "NAME": "Z333 Speaker system with subwoofer",
+    "GRAPHIC": "N/A",
+    "PRICE": 119.99,
+    "TAX": 15.60,
+    "STOCK": 94,
+    "BACKORDER": 0,
+    "DETAILS": "This 80 Watts Peak/40 Watts RMS power 2.1 speaker system delivers maximum loudness and produces rich bass from the front-facing subwoofer. Connect up to two compatible devices via the 3.5 mm and RCA inputs. The wired control pod provides simple controls.",
+    "BRAND": "LOGITECH"
+  },
+  {
+    "NAME": "Z50 PORTABLE SPEAKER",
+    "GRAPHIC": "N/A",
+    "PRICE": 24.99,
+    "TAX": 3.25,
+    "STOCK": 29,
+    "BACKORDER": 100,
+    "DETAILS": "This portable speaker amplifies your device’s audio in any room. It’s simple to setup and easy to move around.",
+    "BRAND": "LOGITECH"
+  },
+  {
+    "NAME": "S350DB",
+    "GRAPHIC": "N/A",
+    "PRICE": 419.99,
+    "TAX": 54.60,
+    "STOCK": 154,
+    "BACKORDER": 0,
+    "DETAILS": "Old School Style. Modern Sound.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "Spinnaker",
+    "GRAPHIC": "N/A",
+    "PRICE": 349.95,
+    "TAX": 45.49,
+    "STOCK": 10,
+    "BACKORDER": 50,
+    "DETAILS": "Bold design for more adventurous music lovers.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "R12U",
+    "GRAPHIC": "N/A",
+    "PRICE": 34.99,
+    "TAX": 4.55,
+    "STOCK": 593,
+    "BACKORDER": 0,
+    "DETAILS": "Bring your computer to life with USB powered speakers.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "Prisma Encore",
+    "GRAPHIC": "N/A",
+    "PRICE": 199.99,
+    "TAX": 26.00,
+    "STOCK": 115,
+    "BACKORDER": 0,
+    "DETAILS": "Stylish Bluetooth speaker that complements any space.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "CineSound B3 Soundbar",
+    "GRAPHIC": "N/A",
+    "PRICE": 279.99,
+    "TAX": 36.40,
+    "STOCK": 18,
+    "BACKORDER": 100,
+    "DETAILS": "A sound bar to transform your living room.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "Airpulse A200 With Stand",
+    "GRAPHIC": "N/A",
+    "PRICE": 1462.49,
+    "TAX": 190.12,
+    "STOCK": 0,
+    "BACKORDER": 200,
+    "DETAILS": "Studio-quality Speakers Designed by Phil Jones.",
+    "BRAND": "EDIFIER"
+  },
+  {
+    "NAME": "JBL Bar 3.1",
+    "GRAPHIC": "N/A",
+    "PRICE": 699.99,
+    "TAX": 91.00,
+    "STOCK": 0,
+    "BACKORDER": 100,
+    "DETAILS": "3.1-Channel 4K Ultra HD Soundbar with Wireless Subwoofer",
+    "BRAND": "JBL"
+  },
+  {
+    "NAME": " JBL Stage A190",
+    "GRAPHIC": "N/A",
+    "PRICE": 629.98,
+    "TAX": 81.90,
+    "STOCK": 19,
+    "BACKORDER": 20,
+    "DETAILS": "Home Audio Loudspeaker System",
+    "BRAND": "JBL"
+  },
+  {
+    "NAME": "JBL Link 20",
+    "GRAPHIC": "N/A",
+    "PRICE": 269.99,
+    "TAX": 35.10,
+    "STOCK": 0,
+    "BACKORDER": 100,
+    "DETAILS": "Voice-activated portable speaker",
+    "BRAND": "JBL"
+  },
+  {
+    "NAME": "JBL Control X",
+    "GRAPHIC": "N/A",
+    "PRICE": 469.99,
+    "TAX": 61.10,
+    "STOCK": 0,
+    "BACKORDER": 20,
+    "DETAILS": "5.25” (133mm) Indoor / Outdoor Speakers",
+    "BRAND": "JBL"
+  },
+  {
+    "NAME": "JBL Bar 5.1 Surround",
+    "GRAPHIC": "N/A",
+    "PRICE": 749.98,
+    "TAX": 97.50,
+    "STOCK": 151,
+    "BACKORDER": 0,
+    "DETAILS": "5.1 channel soundbar with MultiBeam™ Sound Technology",
+    "BRAND": "JBL"
+  }
 ]
