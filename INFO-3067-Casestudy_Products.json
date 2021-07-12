@@ -1,0 +1,18 @@
+[
+	{
+		productName: "Double Mozza Burger",
+		graphicName: "",
+		costPrice: ,
+		msrp: 8.09
+	},
+	{
+		id: 1,
+		name: "McDonalds",
+		Timer: ""		
+	},
+	{
+		id: 2,
+		name: "Byron Pizza",
+		Timer: ""		
+	}
+]
