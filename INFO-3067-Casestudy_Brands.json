@@ -1,17 +1,17 @@
 [
 	{
-		id: 0,
-		name: "A&W",
-		timer: ""		
+		"id": 0,
+		"name": "A&W",
+		"timer": ""		
 	},
 	{
-		id: 1,
-		name: "McDonalds",
-		timer: ""		
+		"id": 1,
+		"name": "McDonalds",
+		"timer": ""		
 	},
 	{
-		id: 2,
-		name: "Byron Pizza",
-		timer: ""		
+		"id": 2,
+		"name": "Byron Pizza",
+		"timer": ""		
 	}
 ]
