@@ -20,7 +20,7 @@
     "BRAND": "LOGITECH"
   },
   {
-    "NAME": "S120 STEREO SPEAKERS,,,,,,,,,,,
+    "NAME": "S120 STEREO SPEAKERS",
     "GRAPHIC": "N/A",
     "PRICE": 17.99,
     "TAX": 2.34,
@@ -46,7 +46,7 @@
     "TAX": 3.25,
     "STOCK": 29,
     "BACKORDER": 100,
-    "DETAILS": "This portable speaker amplifies your deviceís audio in any room. Itís simple to setup and easy to move around.",
+    "DETAILS": "This portable speaker amplifies your device‚Äôs audio in any room. It‚Äôs simple to setup and easy to move around.",
     "BRAND": "LOGITECH"
   },
   {
@@ -146,7 +146,7 @@
     "TAX": 61.10,
     "STOCK": 0,
     "BACKORDER": 20,
-    "DETAILS": "5.25î (133mm) Indoor / Outdoor Speakers",
+    "DETAILS": "5.25‚Äù (133mm) Indoor / Outdoor Speakers",
     "BRAND": "JBL"
   },
   {
@@ -156,7 +156,7 @@
     "TAX": 97.50,
     "STOCK": 151,
     "BACKORDER": 0,
-    "DETAILS": "5.1 channel soundbar with MultiBeamô Sound Technology",
+    "DETAILS": "5.1 channel soundbar with MultiBeam‚Ñ¢ Sound Technology",
     "BRAND": "JBL"
   }
 ]
