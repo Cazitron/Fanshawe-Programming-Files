@@ -2,16 +2,16 @@
 	{
 		id: 0,
 		name: "A&W",
-		Timer: ""		
+		timer: ""		
 	},
 	{
 		id: 1,
 		name: "McDonalds",
-		Timer: ""		
+		timer: ""		
 	},
 	{
 		id: 2,
 		name: "Byron Pizza",
-		Timer: ""		
+		timer: ""		
 	}
 ]
