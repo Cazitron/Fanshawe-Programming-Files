@@ -1,7 +1,7 @@
 [
   {
     "NAME": "G560",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "G560.png",
     "PRICE": 249.99,
     "TAX": 32.50,
     "STOCK": 0,
@@ -11,7 +11,7 @@
   },
   {
     "NAME": "Z906 5.1 SURROUND SOUND SPEAKER SYSTEM",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "Z906.png",
     "PRICE": 499.99,
     "TAX": 65.00,
     "STOCK": 76,
@@ -21,7 +21,7 @@
   },
   {
     "NAME": "S120 STEREO SPEAKERS",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "S120.png",
     "PRICE": 17.99,
     "TAX": 2.34,
     "STOCK": 91,
@@ -31,7 +31,7 @@
   },
   {
     "NAME": "Z333 Speaker system with subwoofer",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "Z333.png",
     "PRICE": 119.99,
     "TAX": 15.60,
     "STOCK": 94,
@@ -41,7 +41,7 @@
   },
   {
     "NAME": "Z50 PORTABLE SPEAKER",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "Z50.png",
     "PRICE": 24.99,
     "TAX": 3.25,
     "STOCK": 29,
@@ -51,7 +51,7 @@
   },
   {
     "NAME": "S350DB",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "S350DB.png",
     "PRICE": 419.99,
     "TAX": 54.60,
     "STOCK": 154,
@@ -61,7 +61,7 @@
   },
   {
     "NAME": "Spinnaker",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "Spinnaker.png",
     "PRICE": 349.95,
     "TAX": 45.49,
     "STOCK": 10,
@@ -71,7 +71,7 @@
   },
   {
     "NAME": "R12U",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "R12U.png",
     "PRICE": 34.99,
     "TAX": 4.55,
     "STOCK": 593,
@@ -81,7 +81,7 @@
   },
   {
     "NAME": "Prisma Encore",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "prisma.png",
     "PRICE": 199.99,
     "TAX": 26.00,
     "STOCK": 115,
@@ -91,7 +91,7 @@
   },
   {
     "NAME": "CineSound B3 Soundbar",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "CSB3.png",
     "PRICE": 279.99,
     "TAX": 36.40,
     "STOCK": 18,
@@ -101,7 +101,7 @@
   },
   {
     "NAME": "Airpulse A200 With Stand",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "AirpulseA200.png",
     "PRICE": 1462.49,
     "TAX": 190.12,
     "STOCK": 0,
@@ -111,7 +111,7 @@
   },
   {
     "NAME": "JBL Bar 3.1",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "JBLBar3.1.png",
     "PRICE": 699.99,
     "TAX": 91.00,
     "STOCK": 0,
@@ -121,7 +121,7 @@
   },
   {
     "NAME": " JBL Stage A190",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "JBLStageA190.png",
     "PRICE": 629.98,
     "TAX": 81.90,
     "STOCK": 19,
@@ -131,7 +131,7 @@
   },
   {
     "NAME": "JBL Link 20",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "JBLLink20.png",
     "PRICE": 269.99,
     "TAX": 35.10,
     "STOCK": 0,
@@ -141,7 +141,7 @@
   },
   {
     "NAME": "JBL Control X",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "JBLControlX.png",
     "PRICE": 469.99,
     "TAX": 61.10,
     "STOCK": 0,
@@ -151,7 +151,7 @@
   },
   {
     "NAME": "JBL Bar 5.1 Surround",
-    "GRAPHIC": "N/A",
+    "GRAPHIC": "JBLBar5.1Surround.png",
     "PRICE": 749.98,
     "TAX": 97.50,
     "STOCK": 151,
