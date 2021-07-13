@@ -111,7 +111,7 @@
   },
   {
     "NAME": "JBL Bar 3.1",
-    "GRAPHIC": "JBLBar3.1.png",
+    "GRAPHIC": "JBLBar3_1.jpg",
     "PRICE": 699.99,
     "TAX": 91.00,
     "STOCK": 0,
@@ -121,7 +121,7 @@
   },
   {
     "NAME": " JBL Stage A190",
-    "GRAPHIC": "JBLStageA190.png",
+    "GRAPHIC": "JBLStageA190.jpg",
     "PRICE": 629.98,
     "TAX": 81.90,
     "STOCK": 19,
@@ -131,7 +131,7 @@
   },
   {
     "NAME": "JBL Link 20",
-    "GRAPHIC": "JBLLink20.png",
+    "GRAPHIC": "JBLLink20.jpg",
     "PRICE": 269.99,
     "TAX": 35.10,
     "STOCK": 0,
@@ -141,7 +141,7 @@
   },
   {
     "NAME": "JBL Control X",
-    "GRAPHIC": "JBLControlX.png",
+    "GRAPHIC": "JBLControlX.jpg",
     "PRICE": 469.99,
     "TAX": 61.10,
     "STOCK": 0,
@@ -151,7 +151,7 @@
   },
   {
     "NAME": "JBL Bar 5.1 Surround",
-    "GRAPHIC": "JBLBar5.1Surround.png",
+    "GRAPHIC": "JBLBar5_1Surround.jpg",
     "PRICE": 749.98,
     "TAX": 97.50,
     "STOCK": 151,
