@@ -51,7 +51,7 @@
   },
   {
     "NAME": "S350DB",
-    "GRAPHIC": "S350DB.png",
+    "GRAPHIC": "S350DB.jpg",
     "PRICE": 419.99,
     "TAX": 54.60,
     "STOCK": 154,
@@ -61,7 +61,7 @@
   },
   {
     "NAME": "Spinnaker",
-    "GRAPHIC": "Spinnaker.png",
+    "GRAPHIC": "Spinnaker.jpg",
     "PRICE": 349.95,
     "TAX": 45.49,
     "STOCK": 10,
@@ -71,7 +71,7 @@
   },
   {
     "NAME": "R12U",
-    "GRAPHIC": "R12U.png",
+    "GRAPHIC": "R12U.jpg",
     "PRICE": 34.99,
     "TAX": 4.55,
     "STOCK": 593,
@@ -81,7 +81,7 @@
   },
   {
     "NAME": "Prisma Encore",
-    "GRAPHIC": "PrismaEncore.png",
+    "GRAPHIC": "PrismaEncore.jpg",
     "PRICE": 199.99,
     "TAX": 26.00,
     "STOCK": 115,
@@ -91,7 +91,7 @@
   },
   {
     "NAME": "CineSound B3 Soundbar",
-    "GRAPHIC": "CSB3.png",
+    "GRAPHIC": "CSB3Bar.jpg",
     "PRICE": 279.99,
     "TAX": 36.40,
     "STOCK": 18,
@@ -101,7 +101,7 @@
   },
   {
     "NAME": "Airpulse A200 With Stand",
-    "GRAPHIC": "AirpulseA200.png",
+    "GRAPHIC": "AirpulseA200.jpg",
     "PRICE": 1462.49,
     "TAX": 190.12,
     "STOCK": 0,
