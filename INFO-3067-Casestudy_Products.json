@@ -3,9 +3,9 @@
     "NAME": "G560",
     "GRAPHIC": "G560.png",
     "PRICE": 156.42,
-    "MSRP": 249.99,
-    "STOCK": 0,
-    "BACKORDER": 35,
+    "MSRP": 509.99,
+    "STOCK": 1,
+    "BACKORDER": 0,
     "DETAILS": "Experience levels of gaming intensity with Logitech G560 LIGHTSYNC PC gaming speakers with dynamic, intelligent RGB lighting. This 2.1 speaker system reacts to in-game action and music.",
     "BRAND": "LOGITECH"
   },
@@ -13,8 +13,8 @@
     "NAME": "Z906 5.1 SURROUND SOUND SPEAKER SYSTEM",
     "GRAPHIC": "Z906.png",
     "PRICE": 324.67,
-    "MSRP": 499.99,
-    "STOCK": 76,
+    "MSRP": 599.99,
+    "STOCK": 1,
     "BACKORDER": 0,
     "DETAILS": "Fully immerse into a premium, theater-quality audio experience in the comfort of your home. This 5.1 speaker system comes with a 1000 Watts Peak/500 Watts RMS power for a rich THX Certified surround sound. With the ability to decode Dolby Digital and DTS encoded soundtracks, Z906 takes your movie and music experience to a whole new level.",
     "BRAND": "LOGITECH"
